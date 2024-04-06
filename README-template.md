@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Link](https://github.com/cogitosnippet/Pricing-Component-Toggle_Feature/tree/master)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Link](https://cogitosnippet.github.io/Pricing-Component-Toggle_Feature/)
 
 ## My process
 
